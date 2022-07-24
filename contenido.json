@@ -7,28 +7,28 @@
         "descripcion": "",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad Uno",
-        "imagen": "easpain2020.github.io/castillobob.jpg"
+        "imagen": "https://easpain2020.github.io/castillobob.jpg"
     },
     {
         "titulo": "ACTIVIDAD DOS",
         "descripcion": "",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad DOS",
-        "imagen": "easpain2020.github.io/castillobob.jpg"
+        "imagen": "https://easpain2020.github.io/castillobob.jpg"
     },
     {
         "titulo": "ACTIVIDAD TRES",
         "descripcion": "Descripcion Actividad TRES",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad TRES",
-        "imagen": "easpain2020.github.io/castillobob.jpg"
+        "imagen": "https://easpain2020.github.io/castillobob.jpg"
     },
     {
         "titulo": "ACTIVIDAD CUATRO",
         "descripcion": "Descripcion Actividad CUATRO",
         "hora": "12:00 horas",
 	    "lugar": "Lugar Acvitidad CUATRO",
-        "imagen": "easpain2020.github.io/castillobob.jpg"
+        "imagen": "https://easpain2020.github.io/castillobob.jpg"
     }
 ]    
 }
