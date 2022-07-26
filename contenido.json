@@ -17,6 +17,13 @@
         "imagen": "https://easpain2020.github.io/castillobob.jpg"
     },
     {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/acuario.jpg"
+    },
+    {
         "titulo": "ACTIVIDAD TRES",
         "descripcion": "Descripcion Actividad TRES",
         "hora": "12:00 horas",
