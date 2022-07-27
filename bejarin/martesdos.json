@@ -1,0 +1,12 @@
+{
+    "nombrePagina" : "MartesDos",
+    "dos" : [
+    {
+        "titulo": "Actuación de Magia",
+        "descripcion": "Juanma Guillo",
+        "hora": "20:30 horas",
+	    "lugar": "Plaza del pueblo",
+        "imagen": "https://easpain2020.github.io/img/patomagia.jpg"
+    }
+]    
+}
