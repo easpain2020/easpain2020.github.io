@@ -3,39 +3,39 @@
     "nombrePagina" : "ContenidoUno",
     "contenido" : [
     {
-        "titulo": "ACTIVIDAD UNO",
-        "descripcion": "",
-        "hora": "12:00 horas",
-	    "lugar": "Lugar Acvitidad Uno",
-        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
+        "titulo": "Diana Floreada",
+        "descripcion": "Banda de Musica Villa Real de Purullena",
+        "hora": "10:00 horas",
+	    "lugar": "Calles Principales",
+        "imagen": "https://easpain2020.github.io/img/banda.jpg"
     },
     {
-        "titulo": "ACTIVIDAD DOS",
+        "titulo": "Juegos Populares y acuáticos",
         "descripcion": "",
-        "hora": "12:00 horas",
-	    "lugar": "Lugar Acvitidad DOS",
+        "hora": "11:00 horas",
+	    "lugar": "Plaza del Pueblo",
         "imagen": "https://easpain2020.github.io/img/castillobob.jpg"
     },
     {
-        "titulo": "",
+        "titulo": "Comida Mayores",
         "descripcion": "",
-        "hora": "",
+        "hora": "20:30",
+	    "lugar": "Recinto Verbena",
+        "imagen": "https://easpain2020.github.io/img/comida.jpg"
+    },
+    {
+        "titulo": "Actuación de copla",
+        "descripcion": "Roberto González y Mari Vico",
+        "hora": "22:00 horas",
 	    "lugar": "",
-        "imagen": "https://easpain2020.github.io/img/acuario.jpg"
+        "imagen": "https://easpain2020.github.io/img/copla.jpg"
     },
     {
-        "titulo": "ACTIVIDAD TRES",
-        "descripcion": "Descripcion Actividad TRES",
-        "hora": "12:00 horas",
-	    "lugar": "Lugar Acvitidad TRES",
-        "imagen": "https://easpain2020.github.io/img/castillobob.jpg"
-    },
-    {
-        "titulo": "ACTIVIDAD CUATRO",
-        "descripcion": "Descripcion Actividad CUATRO",
-        "hora": "12:00 horas",
-	    "lugar": "Lugar Acvitidad CUATRO",
-        "imagen": "https://easpain2020.github.io/img/castillobob.jpg"
+        "titulo": "Grupo Septiembre",
+        "descripcion": "",
+        "hora": "00:00 horas",
+	    "lugar": "",
+        "imagen": ""
     }
 ]    
 }
