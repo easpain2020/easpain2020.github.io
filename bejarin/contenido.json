@@ -14,7 +14,7 @@
         "descripcion": "",
         "hora": "11:00 horas",
 	    "lugar": "Plaza del Pueblo",
-        "imagen": "https://easpain2020.github.io/img/castillobob.jpg"
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     },
     {
         "titulo": "Comida Mayores",
@@ -35,7 +35,7 @@
         "descripcion": "",
         "hora": "00:00 horas",
 	    "lugar": "",
-        "imagen": ""
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     }
 ]    
 }
