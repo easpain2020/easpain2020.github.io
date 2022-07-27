@@ -1,0 +1,20 @@
+{
+    "nombrePagina" : "MiercolesTres",
+    "tres" : [
+    {
+        "titulo": "Hinchables de agua",
+        "descripcion": "",
+        "hora": "11:00 horas",
+	    "lugar": "Recinto Verbena",
+        "imagen": ""
+    },
+    {
+        "titulo": "Tirolina Gigante",
+        "descripcion": "",
+        "hora": "18:00 horas",
+	    "lugar": "C/ Federico García Lorca",
+        "imagen": ""
+    }
+
+]    
+}
