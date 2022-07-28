@@ -1,0 +1,40 @@
+{
+    "nombrePagina" : "DomingoSiete",
+    "Siete" : [
+    {
+        "titulo": "Romería",
+        "descripcion": "Celebración de la Eucaristía a la llegada",
+        "hora": "09:00 horas",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/romeria.jpg"
+    },
+    {
+        "titulo": "Paella Popular",
+        "descripcion": "Para todos los asistentes",
+        "hora": "14:00 horas",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/paella.jpg"
+    },
+    {
+        "titulo": "Tradicional Fiesta de la Espuma",
+        "descripcion": "",
+        "hora": "16:00",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/espuma.jpg"
+    },
+    {
+        "titulo": "Actuación Memoria Sonora",
+        "descripcion": "Grupo de Versiones",
+        "hora": "22:00",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/memoriasonora.jpg"
+    },
+    {
+        "titulo": "Traca Final Fiestas",
+        "descripcion": "",
+        "hora": "00:00",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/fuegos.jpg"
+    }
+]    
+}
