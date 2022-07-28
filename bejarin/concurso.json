@@ -1,0 +1,33 @@
+{
+    "nombrePagina" : "Concurso",
+    "contenido" : [
+    {
+        "titulo": "Fernando Rodríguez Fernández",
+        "descripcion": "GANADOR CONCURSO",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/ganador.jpg"
+    },
+    {
+        "titulo": "Damián Tejada Hernández",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/finalistados.jpg"
+    },
+    {
+        "titulo": "María Trinidad García Muñoz",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/finalistatres.jpg"
+    },
+    {
+        "titulo": "Celia Rodríguez Fernández",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/finalistauno.jpg"
+    }
+]    
+}
