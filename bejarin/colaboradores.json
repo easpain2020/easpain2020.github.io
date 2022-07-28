@@ -1,0 +1,47 @@
+{
+    "nombrePagina" : "Colaboradores",
+    "contenido" : [
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/acuario.jpg"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/abuelojose.jpg"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/aserradero.jpg"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/agora.jpg"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/palets.jpg"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/cajarural.jpg"
+    }
+]    
+}
