@@ -6,14 +6,14 @@
         "descripcion": "",
         "hora": "11:00 horas",
 	    "lugar": "Recinto Verbena",
-        "imagen": ""
+        "imagen": "https://easpain2020.github.io/img/hinchables.jpg"
     },
     {
         "titulo": "Tirolina Gigante",
         "descripcion": "",
         "hora": "18:00 horas",
 	    "lugar": "C/ Federico García Lorca",
-        "imagen": ""
+        "imagen": "https://easpain2020.github.io/img/tirolina.jpg"
     }
 
 ]    
