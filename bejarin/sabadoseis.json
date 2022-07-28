@@ -1,0 +1,40 @@
+{
+    "nombrePagina" : "SabadoSeis",
+    "seis" : [
+    {
+        "titulo": "Espectáculo Fantasía",
+        "descripcion": "(Para todos los públicos)",
+        "hora": "18:30 horas",
+	    "lugar": "Plaza del Pueblo",
+        "imagen": "https://easpain2020.github.io/img/fantasia.jpg"
+    },
+    {
+        "titulo": "Concierto",
+        "descripcion": "Banda de Musica Villa Real de Purullena",
+        "hora": "20:00 horas",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/banda.jpg"
+    },
+    {
+        "titulo": "Ofrenda Floral",
+        "descripcion": "Virgen de Fátima",
+        "hora": "21:30",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/flores.jpg"
+    },
+    {
+        "titulo": "Actuación Trio Essentia",
+        "descripcion": "",
+        "hora": "22:00",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/essentia.jpg"
+    },
+    {
+        "titulo": "Actuación La Blanca y el Negro",
+        "descripcion": "",
+        "hora": "01:30",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/blancanegro.jpg"
+    }
+]    
+}
