@@ -1,0 +1,12 @@
+{
+    "nombrePagina" : "SaludaPurullena",
+    "contenido" : [
+    {
+        "titulo": "PROXIMAMENTE",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
+    }
+]    
+}
