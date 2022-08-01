@@ -181,8 +181,8 @@ span {
 	margin:30px 0px;
 }
 .line {
-	border:1px solid #edd037;
-	width:15%;
+	border:2px solid #edd037;
+	width:20%;
 }
 a:hover, a:focus {
 	text-decoration:none;
