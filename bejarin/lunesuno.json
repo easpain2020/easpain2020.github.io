@@ -2,11 +2,11 @@
     "nombrePagina" : "LunesUno",
     "contenido" : [
     {
-        "titulo": "Cine de Verano",
-        "descripcion": "Raya y el Último Dragón",
-        "hora": "22:00 horas",
-	    "lugar": "Plaza del pueblo",
-        "imagen": "https://easpain2020.github.io/img/cineverano.jpg"
+        "titulo": "PROXIMAMENTE",
+        "descripcion": "",
+        "hora": "",
+	    "lugar": "",
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     }
 ]    
 }
