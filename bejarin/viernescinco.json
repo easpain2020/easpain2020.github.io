@@ -6,21 +6,21 @@
         "descripcion": "",
         "hora": "17:30 horas",
 	    "lugar": "Camino los pedregales",
-        "imagen": "https://easpain2020.github.io/img/deslizante.jpg"
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     },
     {
         "titulo": "Actuación Grupo Flamenco Purullena",
         "descripcion": "Escuela de baile Victoria Hernández",
         "hora": "22:30 horas",
 	    "lugar": "Recinto Verbena",
-        "imagen": "https://easpain2020.github.io/img/grupoflamenco.jpg"
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     },
     {
         "titulo": "Verbena",
         "descripcion": "Orquesta Manigua",
         "hora": "23:30",
 	    "lugar": "Recinto Verbena",
-        "imagen": "https://easpain2020.github.io/img/manigua.jpg"
+        "imagen": "https://easpain2020.github.io/img/logoanimado.gif"
     }
 ]    
 }
